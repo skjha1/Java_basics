@@ -15,3 +15,8 @@
   19 : myTotal = myFirstNumber + mySecondNumber + myThirdNumber
   20 : int myLastOne = 1000 - myTotal;
   21 : System.out.print(myLastOne)
+  22 : int myMinValue = Integer.MIN_VALUE;
+  23 : int myMaxValue = Integer.MAX_VALUE;
+  24 : System.out.print("Integer Minimum Value = " + myMinValue);
+  25 : System.out.print("Integer Minimum Value = " + myMaxValue);
+  26 : System.out.print("Integer Minimum value = " + Integer.MIN_VALUE + "to " + Integer.MAX_VALUE + ")" );
